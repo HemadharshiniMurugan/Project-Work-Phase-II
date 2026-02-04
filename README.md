@@ -109,21 +109,29 @@ Patient → React UI → Spring Boot API → Profile Validation → Authorizatio
 ### 1. Patient Registration & Profile Creation
 
 i) Patient registers with personal and medical details
+
 ii) Password is encrypted using BCrypt
+
 iii) Health profile is securely stored in database
 
 ### 2. Authentication & JWT Generation
 
 i) Patient logs in with valid credentials
+
 ii) Spring Security authenticates the user
+
 iii) JWT token is generated
+
 iv) Token used for secure API access
 
 ### 3. Appointment Request & Authorization
 
 i) Patient selects doctor/date
+
 ii) System checks eligibility rules
+
 iii) Automation verifies availability & profile
+
 iv) Appointment approved or rejected automatically
 
 ### 4. Role-Based Access
