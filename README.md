@@ -218,6 +218,9 @@ The system successfully demonstrates a secure, automated, and scalable healthcar
 ## References
 
 [1] Spring Security Documentation
+
 [2] JSON Web Token (JWT) Standards
+
 [3] RESTful Web Services Architecture
+
 [4] Healthcare Information Security Guidelines
